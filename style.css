@@ -1,0 +1,67 @@
+.body {
+  margin: 0;
+  width: 100%;
+}
+.resumeContainer {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0;
+  border: 5px solid purple;
+  width: 100%;
+}
+.leftCol {
+  width: 30%;
+}
+
+.resumePic {
+  width: 100%;
+}
+
+.pic {
+  width: 100%;
+}
+
+.contactHeader {
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.contactInformation {
+  width: 100%;
+}
+
+.skillHeader {
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+.skillContainer {
+  width: 100%;
+}
+
+.rightCol {
+  border-left: solid blue;
+  width: 70%;
+  padding: 15px;
+}
+
+.name {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.educationHeader {
+  text-align: center;
+}
+.education {
+}
+
+.experienceHeader {
+  text-align: center;
+}
+
+.experience {
+}
